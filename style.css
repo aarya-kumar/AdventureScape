@@ -163,7 +163,8 @@ video{
     font-weight: 900;
     margin-right: 7vw;
     transition: all linear 0.5s;
-    color: ##ACE022; 
+    color: #ACE022;
+}
 
 .scroller h4:hover{
     color: pink;
