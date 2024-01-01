@@ -162,11 +162,8 @@ video{
     font-size: 7vmax;
     font-weight: 900;
     margin-right: 7vw;
-    font-family:'Courier New', Courier, monospace;
     transition: all linear 0.5s;
-    color: #000;
-    -webkit-text-stroke: 2px pink;
-}
+    color: ##ACE022; 
 
 .scroller h4:hover{
     color: pink;
